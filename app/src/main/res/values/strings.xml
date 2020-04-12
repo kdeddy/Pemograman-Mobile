@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RecyleView</string>
+
+    <string-array name="SocialList">
+        <item>WhatApps</item>
+        <item>Instagram</item>
+        <item>Youtube</item>
+        <item>Pinterest</item>
+        <item>Facebook</item>
+        <item>SnapChat</item>
+        <item>Linkein</item>
+        <item>Twitter</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+        <item>Meupakan Sebuah Sosial Media</item>
+    </string-array>
+</resources>
